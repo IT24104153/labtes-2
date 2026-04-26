@@ -32,3 +32,6 @@ create backend folder in normal way and in backend terminal - npm init -y
 
    --in mongo url 
    mongodb+srv://admin:**1234**@cluster0.gzxjzax.mongodb.net/**wmt**?appName=Cluster0
+
+   in vercel variables add vite_api_url =And https:// railway link /api
+   root directory-frontend
