@@ -23,3 +23,12 @@ create backend folder in normal way and in backend terminal - npm init -y
   --frontend-vervcel
     add new-project-go to git frontend google url --paste to deploy
     -copy deployment url and paste in.env-vite_api_url
+
+  --frontend .gitignore
+  node_modules , .env, dist
+
+  --backend ..
+   node_modules , .env
+
+   --in mongo url 
+   mongodb+srv://admin:**1234**@cluster0.gzxjzax.mongodb.net/**wmt**?appName=Cluster0
